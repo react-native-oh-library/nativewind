@@ -1,9 +1,0 @@
-crosshair
-extralight
-flexbox
-monospace
-nesw
-semibold
-tailwindcss
-nums
-oldstyle

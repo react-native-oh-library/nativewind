@@ -1,9 +1,0 @@
-{
-  "extends": "@tsconfig/react-native/tsconfig.json",
-  "compilerOptions": {
-    "declaration": true,
-    "noUnusedLocals": true,
-    "removeComments": true,
-    "esModuleInterop": true,
-  }
-}
